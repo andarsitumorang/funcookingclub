@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x757e72680eAc99f30430cAD728c4367D323da36F",
+  "SCAN_LINK": "https://polygonscan.com/token/0x757e72680eAc99f30430cAD728c4367D323da36F",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "FUN COOKING CLUB",
+  "SYMBOL": "FCC",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/funcookingclub",
+  "SHOW_BACKGROUND": true
+}
